@@ -37,7 +37,7 @@ $3.55
 https://www.amazon.com/gp/product/B08GXCMLPD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 $13
 
-**Total Cost: $655.55 - Total Cost Without New GPU & Case: $180.55
+**Total Cost: $655.55 - Total Cost Without New GPU & Case: $180.55**
 
 ------------------------------------------------------------------------------------
 
