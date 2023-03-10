@@ -65,6 +65,7 @@ The 1080ti has been my dedicated gpu for awhile now and with the market the way 
 **The G12 Replacement Fan**
 
 **The AIO**
+
 The NZXT GT12 Bracket is compatable with most circular Asetek style coolers, like those by corsair or of course NZXT themselves. With my choice of case I was very limited in how tall the aio pump unit could be. So I chose an older AIO without any fancy rgb to get the slimest profile I could. It may not be the best unit right out of the box, but with some fan upgrades it should be comparable to any other unit with a 280mm radiator
 
 **The AIO Replacement Fans**
