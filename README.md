@@ -57,6 +57,7 @@ $13
 ------------------------------------------------------------------------------------
 
 **The GPU**
+
 The 1080ti has been my dedicated gpu for awhile now and with the market the way it is, and my taste in video games consisting mostly of 10+ year old titles, I havent felt the need to upgrade yet. When I do, I plan on reusing the parts and redoing the watercooling the exact same way. With the way the g12 brcket is, I'd expect this guide to be mostly the same for any gpu on the market today, as long as the core is roughly centered on the PCB.
 
 **The G12**
