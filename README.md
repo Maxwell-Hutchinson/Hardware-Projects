@@ -2,7 +2,7 @@
 --------------------------------------------
 ![cover image](https://github.com/Maxwell-Hutchinson/Watercooled-GPU/blob/main/Pictures/PXL_20230310_193409571.MP.jpg?raw=true)
 
-###prices listed are from march 10th, 2023
+### prices listed are from march 10th, 2023
 
 Parts List
 ----------
