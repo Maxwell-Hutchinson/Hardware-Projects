@@ -82,5 +82,5 @@ The NZXT GT12 Bracket is compatable with most circular Asetek style coolers, lik
 ## Conclusions
 ----------------------------------------------------------------------------
 
-##Improvements
+## Improvements
 -----------------------------------------------------------------------------
